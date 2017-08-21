@@ -1,0 +1,15 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "proyecto para la clase de pruebas automaticas",
+  "main": "app.js",
+  "dependencies": {
+    "idb": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Forero",
+  "license": "ISC"
+}
