@@ -142,8 +142,6 @@
 
     app.saveSelectedTimetables = function() {
         var selectedTimetables = JSON.stringify(app.selectedTimetables);
-        //localStorage.selectedTimetables = selectedTimetables;
-        //pruebasAutomaticas.setItem("selectedTimetables", selectedTimetables);
         localforage.setItem('selectedTimetables', selectedTimetables).then(function(){
             return localforage.getItem('selectedTimetables');
         }).then(function(value){

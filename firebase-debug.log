@@ -1,0 +1,21 @@
+[debug] [2017-08-21T03:48:33.866Z] ----------------------------------------------------------------------
+[debug] [2017-08-21T03:48:33.869Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Camilo Forero\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2017-08-21T03:48:33.870Z] CLI Version:   3.9.2
+[debug] [2017-08-21T03:48:33.870Z] Platform:      win32
+[debug] [2017-08-21T03:48:33.870Z] Node Version:  v6.11.2
+[debug] [2017-08-21T03:48:33.870Z] Time:          Sun Aug 20 2017 22:48:33 GMT-0500 (Hora est. Pacífico, Sudamérica)
+[debug] [2017-08-21T03:48:33.870Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-21T03:48:33.882Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-08-21T03:48:33.882Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Camilo Forero\Documents\GitHub\ratp-pwa
+

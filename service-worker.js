@@ -8,7 +8,9 @@ var filesToCache = [
     '/scripts/app.js',
     '/styles/inline.css',
     '/images/ic_add_white_24px.svg',
-    '/images/ic_refresh_white_24px.svg'
+    '/images/ic_refresh_white_24px.svg',
+    '/images/icon-192x192.png',
+    '/images/metro_image.jpg'
   ];
 
 self.addEventListener('install', function(e) {
